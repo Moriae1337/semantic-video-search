@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.env
+
+# data, indexes, models
+data/
+qdrant_storage/
+models/
+*.mp4
+*.mkv
+*.avi

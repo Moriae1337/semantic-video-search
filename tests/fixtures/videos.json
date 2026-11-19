@@ -1,0 +1,42 @@
+[
+  {
+    "video_id": "113be64c0b6b6dd5",
+    "path": "sample/red_demo.mp4",
+    "duration": 10.0,
+    "fps": 25.0,
+    "width": 224,
+    "height": 224,
+    "title": "red demo",
+    "caption": "a plain red screen"
+  },
+  {
+    "video_id": "3ec0e88d8266c5f0",
+    "path": "sample/green_demo.mp4",
+    "duration": 10.0,
+    "fps": 25.0,
+    "width": 224,
+    "height": 224,
+    "title": "green demo",
+    "caption": "a plain green screen"
+  },
+  {
+    "video_id": "3935c1ef5045ce41",
+    "path": "sample/blue_demo.mp4",
+    "duration": 10.0,
+    "fps": 25.0,
+    "width": 224,
+    "height": 224,
+    "title": "blue demo",
+    "caption": "a plain blue screen"
+  },
+  {
+    "video_id": "743e3b085f829089",
+    "path": "sample/yellow_demo.mp4",
+    "duration": 10.0,
+    "fps": 25.0,
+    "width": 224,
+    "height": 224,
+    "title": "yellow demo",
+    "caption": "a plain yellow screen"
+  }
+]
