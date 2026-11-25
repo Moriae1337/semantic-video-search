@@ -1,0 +1,29 @@
+{
+  "query": "a blue screen",
+  "model": "ViT-B-32/laion2b_s34b_b79k",
+  "took_ms": 12.3,
+  "results": [
+    {
+      "segment_id": "923610e9-e690-50cf-9e78-cd55e9803c85",
+      "video_id": "3935c1ef5045ce41",
+      "video_title": "blue demo",
+      "start": 0.0,
+      "end": 5.0,
+      "score": 0.31,
+      "thumbnail_url": "/media/thumbnails/923610e9-e690-50cf-9e78-cd55e9803c85.jpg",
+      "clip_url": "/media/clips/923610e9-e690-50cf-9e78-cd55e9803c85.mp4",
+      "matched_frame_time": null
+    },
+    {
+      "segment_id": "12f708b5-57fa-5507-bab8-02fba75c87ed",
+      "video_id": "3935c1ef5045ce41",
+      "video_title": "blue demo",
+      "start": 5.0,
+      "end": 10.0,
+      "score": 0.3,
+      "thumbnail_url": "/media/thumbnails/12f708b5-57fa-5507-bab8-02fba75c87ed.jpg",
+      "clip_url": "/media/clips/12f708b5-57fa-5507-bab8-02fba75c87ed.mp4",
+      "matched_frame_time": null
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+[
+  {
+    "segment_id": "cc71e57e-1d16-59c3-a819-9100692a754f",
+    "video_id": "113be64c0b6b6dd5",
+    "index": 0,
+    "start": 0.0,
+    "end": 5.0,
+    "frame_paths": [
+      "images/red_0.png",
+      "images/red_1.png"
+    ],
+    "frame_times": [
+      1.25,
+      3.75
+    ],
+    "thumbnail_path": "images/red_0.png",
+    "clip_path": null
+  },
+  {
+    "segment_id": "34b0029b-1ac9-5e08-b2bd-e4743e4d09ad",
+    "video_id": "113be64c0b6b6dd5",
+    "index": 1,
+    "start": 5.0,
+    "end": 10.0,
+    "frame_paths": [
+      "images/red_0.png",
+      "images/red_1.png"
+    ],
+    "frame_times": [
+      6.25,
+      8.75
+    ],
+    "thumbnail_path": "images/red_0.png",
+    "clip_path": null
+  },
+  {
+    "segment_id": "a7ac2fe9-0287-5aa0-b6f0-faaeadfc2365",
+    "video_id": "3ec0e88d8266c5f0",
+    "index": 0,
+    "start": 0.0,
+    "end": 5.0,
+    "frame_paths": [
+      "images/green_0.png",
+      "images/green_1.png"
+    ],
+    "frame_times": [
+      1.25,
+      3.75
+    ],
+    "thumbnail_path": "images/green_0.png",
+    "clip_path": null
+  },
+  {
+    "segment_id": "aa621d25-68de-55c2-a124-e9dc9cfe0338",
+    "video_id": "3ec0e88d8266c5f0",
+    "index": 1,
+    "start": 5.0,
+    "end": 10.0,
+    "frame_paths": [
+      "images/green_0.png",
+      "images/green_1.png"
+    ],
+    "frame_times": [
+      6.25,
+      8.75
+    ],
+    "thumbnail_path": "images/green_0.png",
+    "clip_path": null
+  },
+  {
+    "segment_id": "923610e9-e690-50cf-9e78-cd55e9803c85",
+    "video_id": "3935c1ef5045ce41",
+    "index": 0,
+    "start": 0.0,
+    "end": 5.0,
+    "frame_paths": [
+      "images/blue_0.png",
+      "images/blue_1.png"
+    ],
+    "frame_times": [
+      1.25,
+      3.75
+    ],
+    "thumbnail_path": "images/blue_0.png",
+    "clip_path": null
+  },
+  {
+    "segment_id": "12f708b5-57fa-5507-bab8-02fba75c87ed",
+    "video_id": "3935c1ef5045ce41",
+    "index": 1,
+    "start": 5.0,
+    "end": 10.0,
+    "frame_paths": [
+      "images/blue_0.png",
+      "images/blue_1.png"
+    ],
+    "frame_times": [
+      6.25,
+      8.75
+    ],
+    "thumbnail_path": "images/blue_0.png",
+    "clip_path": null
+  },
+  {
+    "segment_id": "1e14f6af-3289-586f-89a4-aa8f4c62ff97",
+    "video_id": "743e3b085f829089",
+    "index": 0,
+    "start": 0.0,
+    "end": 5.0,
+    "frame_paths": [
+      "images/yellow_0.png",
+      "images/yellow_1.png"
+    ],
+    "frame_times": [
+      1.25,
+      3.75
+    ],
+    "thumbnail_path": "images/yellow_0.png",
+    "clip_path": null
+  },
+  {
+    "segment_id": "c86e04e3-c853-57c1-88ed-fcafb62b9525",
+    "video_id": "743e3b085f829089",
+    "index": 1,
+    "start": 5.0,
+    "end": 10.0,
+    "frame_paths": [
+      "images/yellow_0.png",
+      "images/yellow_1.png"
+    ],
+    "frame_times": [
+      6.25,
+      8.75
+    ],
+    "thumbnail_path": "images/yellow_0.png",
+    "clip_path": null
+  }
+]
